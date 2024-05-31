@@ -158,6 +158,7 @@ nav{
 /* ----- WRAPPER DESIGN ----- */
 .wrapper{
     padding-inline: 10vw;
+    
 }
 
 /* ----- FEATURED BOX ----- */
@@ -173,10 +174,10 @@ nav{
     position: relative;
     display: flex;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     min-height: 80vh;
     flex-direction: column;
-    width: 50%;
+    width: 100%;
     padding-left: 20px;
 }
 .featured-text-card span{
